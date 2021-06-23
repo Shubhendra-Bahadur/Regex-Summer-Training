@@ -1,0 +1,45 @@
+.wrap{
+	width: 450px;
+    height: auto;
+    position: relative;
+    background-image: url(backgrounds.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0 auto;
+    top: 0px;
+}
+
+.p{
+    width: 450px;
+    /* height: 600px; */
+    /* background-repeat: no-repeat; */
+    /* background-position: center center; */
+    padding: 120px 0px 100px 0px;
+    margin: 0 auto;
+    color: #99722b;
+    text-transform: uppercase;
+    text-decoration: bold;
+    text-align: center;
+    font-family: Algerian;
+}
+	
+
+
+
+.h1{
+	padding: 0px 0px 0px;
+    font-size: 18px;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-family: Algerian;
+    margin: 0 auto;
+    color: #99722b;
+    text-align: center;
+    width: 450px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 10%;
+    margin: 0 auto;
+    /* left: 35%;
+}

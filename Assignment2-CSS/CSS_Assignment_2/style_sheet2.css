@@ -1,0 +1,53 @@
+
+.block-wrap{
+	width:30%;
+	margin-left:15px;
+	box-shadow: 4px 4px 4px 4px #cdcdcd61;
+	padding:10px;
+}
+.block-wrap .h1{
+	background-repeat: no-repeat;
+	background-position: left-side;
+	font-size: 18px;
+	color: #0A5A78;
+	text-decoration: bold;
+	text-transform: uppercase;
+}
+.block-wrap img{
+	max-width:100%;
+	width:100%;
+	height:600px;
+}
+
+.block-wrap .num{
+	background-color: #EEB500;
+    color: white;
+    padding: 10px 2px 8px 10px;
+    width: 19px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 17px;
+}
+
+.block-wrap .book-house{
+	color: black;
+	padding: 0px 0px 0px;
+	font-size: 18px;
+	display: inline-end;
+    min-height: 80px;
+    max-height: 80px;
+    overflow-y: auto;
+    font-size: 18px;
+}
+
+.main-wrap{
+	display:flex
+}
+.btn{
+	background-color: red;
+	width: 100%;
+	color: white;
+	padding: 5px 0px 5px 0px;
+    border: none;
+}
+	
