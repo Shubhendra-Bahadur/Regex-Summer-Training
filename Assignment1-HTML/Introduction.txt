@@ -3,4 +3,4 @@ Assignment 1 -HTML
 Registration Id - SIRSS1181
 Name -Shubhendra Bahadur Srivastava
 College Name- University of Lucknow
-Github link- https://github.com/Shubhendra-Bahadur/Regex-Summer-Training/tree/master/Assignment4
+Github link- https://github.com/Shubhendra-Bahadur/Regex-Summer-Training/tree/master/Assignment1-HTML
